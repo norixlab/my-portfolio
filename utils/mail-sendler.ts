@@ -34,7 +34,7 @@ export async function sendMail({ to, subject, body }: SendMailParams) {
 
   try {
     await transport.sendMail({
-      from: process.env.ADMIN_EMAIL,
+      from: 'portfolio@taydakov.com',
       to,
       subject,
       html: body,
