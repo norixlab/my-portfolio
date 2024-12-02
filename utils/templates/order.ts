@@ -255,7 +255,7 @@ export const orderTemplate = `
 														<tr>
 															<td class="pad" style="padding-left:10px;padding-right:10px;padding-top:10px;">
 																<div style="color:#ffffff;font-family:Ubuntu, Tahoma, Verdana, Segoe, sans-serif;font-size:14px;line-height:180%;text-align:center;mso-line-height-alt:25.2px;">
-																	<p style="margin: 0;"><a href="https://portfolio.norixlab.com" target="_blank" style="text-decoration: underline; color: #ffffff;" rel="noopener">www.my-portfolio.com</a></p>
+																	<p style="margin: 0;"><a href="https://www.taydakov.com" target="_blank" style="text-decoration: underline; color: #ffffff;" rel="noopener">www.my-portfolio.com</a></p>
 																</div>
 															</td>
 														</tr>
