@@ -1,0 +1,12 @@
+export { Container } from "./container";
+export { Modal } from "../ui/modal";
+export { Header } from "./header";
+export { Footer } from "./footer";
+export { Hero } from "./hero";
+export { About } from "./about";
+export { ToTop } from "../ui/to-top";
+export { ProgressBar } from "../ui/progress-bar";
+export { Skills } from "./skills";
+export { Resources } from "./resources";
+export { Projects } from "./projects";
+export { Contacts } from "./contacts";

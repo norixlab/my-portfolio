@@ -1,0 +1,82 @@
+{
+  "header": {
+    "aria_logo": "Logo",
+    "aria_language_switcher": "Language Switcher",
+    "aria_mobile_menu": "Mobile Menu"
+    
+  },
+  "hero": {
+    "title": "Hello, my name's",
+    "name": "Sergey Taydakov ",
+    "subtitle": "I'm a",
+    "subtitle_span": "JavaScript Developer",
+    "description": "I specialize in building modern, high-performance web applications, predominantly using the Next.js framework.",
+    "subdescription": "If you need a professional website -",
+    "subdescription_span": "let's work together!",
+    "button": "Contact me",
+    "aria_contact_me": "Contact me"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "Full Stack Web Developer",
+    "description": "I specialize in building web applications: from lendings and corporate websites to complex online stores with custom CMS. My approach is focused on stability and scalability of solutions that simplify the process of content management.",
+    "subdescription": "With experience in both front-end and back-end development, I am skilled in customizing technologies to meet your business needs, integrating payment systems, customizing advanced filters and search features.",
+    "button": "My Projects"
+  },
+  "skills": {
+    "title": "My Skills",
+    "button": "Read more"
+  },
+  "resources": {
+    "title": "Is used in the development",
+    "subtitle": "frontend & backend",
+    "subtitle_two": "styles, animations & images",
+    "description": "Percentage per 100 projects"
+  },
+  "recent_projects": {
+    "title": "Recent projects"
+  },
+  "contacts": {
+    "title": "Contact Me",
+    "button": "Send a message",
+    "form": {
+      "select": {
+        "label": "Theme",
+        "placeholder": "Select a theme",
+        "options": [
+          {
+            "value": "Order development of the site",
+            "label": "Order development of the site"
+          },
+          {
+            "value": "Order editing or finalization of the site",
+            "label": "Order editing or finalization of the site"
+          },
+          {
+            "value": "Proposal for cooperation",
+            "label": "Proposal for cooperation"
+          },
+          {
+            "value": "Other themes",
+            "label": "Other..."
+          }
+        ]
+      },
+      "name": {
+        "label": "Your name",
+        "placeholder": "Enter your name..."
+      },
+      "email": {
+        "label": "Your email",
+        "placeholder": "Enter your email..."
+      },
+      "message": {
+        "label": "Your message",
+        "placeholder": "Enter your message..."
+      }
+    }
+  },
+  "skills_page":{
+    "button": "Back"
+  }
+}
