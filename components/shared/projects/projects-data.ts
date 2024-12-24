@@ -18,8 +18,8 @@ export const projects = [
     title: { en: "Website Aggregator", ru: "Сайт-агрегатор" },
 
     description: {
-      en: "Site for comfortable organization of travels, excursions and in Armenia (in the process of development)",
-      ru: "Сайт для комфортной организации путешествий, экскурсий и в Армении  (в процессе разработки)",
+      en: "Website for comfortable organization of trips and excursions in Armenia (under development)",
+      ru: "Сайт для комфортной организации путешествий и экскурсий в Армении (в процессе разработки)",
     },
 
     alt: "Armenia Journey",
