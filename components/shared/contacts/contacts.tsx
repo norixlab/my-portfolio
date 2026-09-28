@@ -46,12 +46,12 @@ export const Contacts: React.FC<ContactsProps> = ({ translation }) => {
           <Ring
             ariaLabel="Telegram"
             icon={<FaTelegramPlane />}
-            href={"https://t.me/norixlab"}
+            href={"https://t.me/armenia_journey_support"}
           />
           <Ring
             ariaLabel="WhatsApp"
             icon={<FaWhatsapp />}
-            href={"https://wa.me/message/W7TW3RZT2NESN1"}
+            href={"https://wa.me/37493767356"}
           />
           <Ring
             ariaLabel="Instagram"
